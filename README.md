@@ -10,8 +10,8 @@
 
 
 ## ⏲ what am i doing now:
-I'm editing my personal website💻 and developing my Yanındayım app.
-I also work as a FreeLancer 🆓.
+- I'm editing my personal website💻 and developing my Yanındayım app.
+- I also work as a FreeLancer 🆓.
 
 ### 📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://o.remove.bg/downloads/c8a84ae6-9631-4e65-bfd8-0bc14611c6bc/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text-removebg-preview.png" />][linkedin]
