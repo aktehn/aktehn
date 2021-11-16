@@ -4,14 +4,13 @@
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1838/1*DX_TIHaAWjPlY9KJ3OH_2w.gif" width="450" height="300" />
 
-- 🌱 I am currently developing myself in React.js and React Native.
-- 🥅 2021 Goals: To develop myself better in my field and to develop an application that will make its voice heard in the world.🌎
+- 🌱 I am currently developing myself in React.js and JavaScript.
+- 🥅 2021 Goals: To develop myself better in the field of software.
 - ⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟ and cycling 🚴‍♀️
 
 
 ## ⏲ what am i doing now:
-- I'm editing my personal website💻 and developing my Yanındayım app.
-- I also work as a FreeLancer 🆓.
+- 💻 I am currently working as a frontend developer at Arkenom Teknoloji.
 
 ### 📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" height="25px" width="100px" src="https://camo.githubusercontent.com/71924561236b297d0d9586b0a306d77c776e9e7a53a129550007091281cd636e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
