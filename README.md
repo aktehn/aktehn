@@ -2,8 +2,6 @@
 <hr />
 
 
-
-![Aykut GitHub stats](https://github-readme-stats.vercel.app/api?username=aktehn&show_icons=true&theme=radical)
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1838/1*DX_TIHaAWjPlY9KJ3OH_2w.gif" width="420" height="350" />
 
 
