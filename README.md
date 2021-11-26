@@ -2,7 +2,10 @@
 <hr />
 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1838/1*DX_TIHaAWjPlY9KJ3OH_2w.gif" width="450" height="300" />
+
+![Aykut GitHub stats](https://github-readme-stats.vercel.app/api?username=aktehn&show_icons=true&theme=radical)
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1838/1*DX_TIHaAWjPlY9KJ3OH_2w.gif" width="450" height="350" />
+
 
 
 
@@ -55,6 +58,3 @@
 <br />
 <br />
 
-![Aykut GitHub stats](https://github-readme-stats.vercel.app/api?username=aktehn&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktehn&langs_count=8)](https://github.com/aktehn/github-readme-stats)
