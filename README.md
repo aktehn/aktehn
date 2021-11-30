@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1838/1*DX_TIHaAWjPlY9KJ3OH_2w.gif" width="420" height="350" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aktehn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=aktehn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
