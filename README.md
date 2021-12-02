@@ -23,9 +23,10 @@
 
 <br />
 
+[<img align="left" alt="Code" height="20px" width="45px" src="https://camo.githubusercontent.com/3f289d98c7b8dc0adb54cbeebcac97d462b8f027f9b3b88deaaab35eddba49b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3238324333343f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" />][code]
 
-[linkedin]: https://www.linkedin.com/in/aykut-da%C4%9F-989a91190/
-[gmail]: mailto:adag6534@gmail.com
+[code]: https://code.visualstudio.com/
+
 <br />
 
 ### 🔧 Technologies:
