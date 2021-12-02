@@ -24,7 +24,6 @@
 <br />
 
 
-[web]: http://dagaykut.online/
 [linkedin]: https://www.linkedin.com/in/aykut-da%C4%9F-989a91190/
 [gmail]: mailto:adag6534@gmail.com
 <br />
