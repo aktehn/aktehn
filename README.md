@@ -16,8 +16,8 @@
 - 💻 I am currently working as a frontend developer at Arkenom Teknoloji.
 
 ### 📩 Connect with me:
-[<img align="left" alt="linkedin | LinkedIn" height="25px" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.dreamstime.com%2Fvetor-do-%25C3%25ADcone-de-linkedin-image134386252&psig=AOvVaw13Oj-npMMA21DBq4Lwm6Dh&ust=1638552195424000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjt5-LQxfQCFQAAAAAdAAAAABAO" />][linkedin]
-[<img align="left" height="25px" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarka-logo.com%2Fgmail-logo%2F&psig=AOvVaw3KCkvCCsSTUxv1TV-09GUw&ust=1638552221276000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPC01OzQxfQCFQAAAAAdAAAAABAD" />][gmail]
+[<img align="left" alt="linkedin | LinkedIn" height="25px" width="100px" src="https://camo.githubusercontent.com/71924561236b297d0d9586b0a306d77c776e9e7a53a129550007091281cd636e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" />][linkedin]
+[<img align="left" height="25px" width="100" src="https://camo.githubusercontent.com/66c49360ba8aa1a8e2cac17b6b48cfc809479fc8908a92b6f2c361f22cc1f893/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" />][gmail]
 
 
 <br />
