@@ -8,7 +8,7 @@
 
 
 - 🌱 I am currently developing myself in React.js and JavaScript.
-- 🥅 2021 Goals: To develop myself better in the field of software.
+- 🥅 2022 Goals: To develop myself better in the field of software.
 - ⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟ and cycling 🚴‍♀️
 
 
