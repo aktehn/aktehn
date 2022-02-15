@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aktehn" alt="aktehn" /></a> </p>
 
-- 🌱 I am currently developing myself in React.js and JavaScript. **I am currently developing myself in React.js and JavaScript.**
+- 🌱 **I am currently developing myself in React.js and JavaScript.**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React**,  **css**
 
-- 📫 How to reach me **639kursda@gmail.com**
+- 📫 **639kursda@gmail.com**
 
-- ⚡ Fun fact **I love swimming, playing chess and cycling**
+- ⚡ **I love swimming, playing chess and cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
