@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aykut</h1>
+<h1 align="center">Hi 👋, I'm Aykut. Welcome to my Github profile 👋</h1>
 <h3 align="center">I am currently working as a frontend developer at Arkenom Teknoloji</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktehn&label=Profile%20views&color=0e75b6&style=flat" alt="aktehn" /> </p>
@@ -7,14 +7,16 @@
 
 - 🌱 I am currently developing myself in React.js and JavaScript. **I am currently developing myself in React.js and JavaScript.**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **639kursda@gmail.com**
 
-- ⚡ Fun fact **I love swimming 🏊‍♀️, playing chess ♟ and cycling 🚴‍♀️**
+- ⚡ Fun fact **I love swimming, playing chess and cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/desgn_monster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desgn_monster" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aykut-da%c4%9f-989a91190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aykut-da%c4%9f-989a91190/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
