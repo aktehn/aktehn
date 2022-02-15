@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aykut. Welcome to my Github profile 👋</h1>
 <h3 align="center">I am currently working as a frontend developer at Arkenom Teknoloji</h3>
 
+<img align="right" alt="GIF" src="https://www.iakademi.com/wp-content/uploads/2020/10/php-web-design.gif" /> 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktehn&label=Profile%20views&color=0e75b6&style=flat" alt="aktehn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aktehn" alt="aktehn" /></a> </p>
