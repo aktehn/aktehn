@@ -11,7 +11,7 @@
 
 - 🌱 **I am currently developing myself in React.js and JavaScript.**
 
-- 💬 Ask me about **React**,  **css**
+- 💬 Ask me about **React**,  **css**  and **JavaScript** 
 
 - 📫 **639kursda@gmail.com**
 
