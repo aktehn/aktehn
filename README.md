@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://twitter.com/aktehn" target="blank"><img src="https://img.shields.io/twitter/follow/aktehn?logo=twitter&style=for-the-badge" alt="aktehn" /></a> </p>
 
 
-- 🌱 **I am currently developing myself in React.js and JavaScript.**
+- 🌱 **I am currently developing myself in React.js, JavaScript and TypeScript.**
 
-- 💬 Ask me about **React**,  **css**  and **JavaScript** 
+- 💬 Ask me about **React**,  **css**, **JavaScript** and **TypeScript** 
 
 - 📫 **639kursda@gmail.com**
 
