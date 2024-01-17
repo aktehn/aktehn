@@ -5,9 +5,9 @@
 
 ```javascript
 const akt_dg = {
-    name: "Aykut"
+    name: "Aykut",
     pronouns: "He" | "Him",
-    message: "Welcome, Nice to see you"
+    message: "Welcome, Nice to see you",
     code: ["Javascript"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
@@ -18,11 +18,11 @@ const akt_dg = {
             js: ["React", "Next.js", "SCSS", "etc" ],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development"],
         },
         devOps: ["AWS"],
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "Mqtt"]
+        misc: ["Firebase", "Socket.IO", "Mqtt"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 };
