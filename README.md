@@ -1,5 +1,4 @@
-
-💬 ask me about anything, i am happy to help;
+💬 Ask me about anything, i am happy to help;
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="420" />
   
