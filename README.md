@@ -6,7 +6,6 @@
 ```javascript
 const akt_dg = {
     name: "Aykut",
-    pronouns: "He",
     message: "Welcome, Nice to see you",
     code: ["Javascript"],
     askMeAbout: ["web dev", "tech", "app dev"],
