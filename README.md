@@ -1,5 +1,5 @@
 # Hi, Nice to see you 👋
-💬 Ask me about anything, i am happy to help;
+💬 Ask me about anything, i am happy to help
   
 <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="480" />-->
 
