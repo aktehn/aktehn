@@ -7,7 +7,7 @@
 const akt_dg = {
     name: "Aykut",
     message: "Welcome, Nice to see you",
-    code: ["Javascript"],
+    code: ["Javascript" "SQL"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
@@ -20,7 +20,7 @@ const akt_dg = {
             native: ["Android Development"],
         },
         devOps: ["AWS"],
-        databases: ["mongo", "MySql"],
+        databases: ["mongo", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "Mqtt"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
