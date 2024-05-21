@@ -17,7 +17,7 @@ const akt_dg = {
             js: ["React", "Next.js", "SCSS", "etc" ],
         },
         mobileApp: {
-            native: ["Android Development"],
+            js: ["React Native"],
         },
         devOps: ["AWS"],
         databases: ["mongo", "PostgreSQL"],
