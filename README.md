@@ -7,7 +7,7 @@
 const akt_dg = {
     name: "Aykut",
     message: "Welcome, Nice to see you",
-    code: ["Javascript" "SQL"],
+    code: ["Javascript", "SQL"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
