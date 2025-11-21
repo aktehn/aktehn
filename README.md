@@ -5,26 +5,73 @@
 
 ```javascript
 const akt_dg = {
-    name: "Aykut",
-    message: "Welcome, Nice to see you",
+    name: "Aykut Dağ",
+    message: "Welcome, Nice to see you!",
+
+    // ---- CURRENT FOCUS ----
+    roles: [
+        "Salesforce Field Service & WFM Developer",
+        "Screen Flow / Automation Builder",
+        "Frontend Developer",
+        "Figma UI/UX Designer",
+    ],
+    currentlyWorkingOn: [
+        "End-to-End WFM (Workforce Management) systems",
+        "Field Service Automation (Work Orders, Appointments, Tasks)",
+        "Real-life Screen Flows (Meter Reading, Fault Reporting, Work Orders)",
+        "Figma → React design handoff",
+    ],
+
+    // ---- CORE SKILLS ----
     code: ["Javascript", "SQL"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: [
+        "web development",
+        "Salesforce",
+        "Field Service",
+        "Flow Automation",
+        "UI/UX"
+    ],
+
     technologies: {
+        // BACKEND
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "C#"],
         },
+        // FRONTEND
         Frontend: {
-            js: ["React", "Next.js", "SCSS", "etc" ],
+            js: ["React", "Next.js", "Tailwind", "SCSS", "etc"],
         },
+        // MOBILE
         mobileApp: {
             js: ["React Native"],
         },
-        devOps: ["AWS"],
-        databases: ["mongo", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "Mqtt"],
+        // SALESFORCE
+        salesforce: [
+            "Flow Builder",
+            "Record-Triggered Flow",
+            "Screen Flow",
+            "Field Service",
+            "WFM Processes",
+            "Automation",
+        ],
+        // DEVOPS
+        devOps: ["AWS", "GitHub", "CI/CD"],
+        // DATABASE
+        databases: ["MongoDB", "PostgreSQL"],
+        // OTHER TECH
+        misc: ["Firebase", "Socket.IO", "MQTT"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+
+    // ---- ARCHITECTURE & SYSTEMS ----
+    architecture: [
+        "Serverless Architecture",
+        "Progressive Web Applications",
+        "Single Page Applications",
+        "Real-life workforce process design",
+    ],
 };
+
+
 ```
   
 <!--if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈-->
